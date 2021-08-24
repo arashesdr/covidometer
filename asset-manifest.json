@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/covidometer/static/js/main.3988496c.chunk.js",
+    "main.js.map": "/covidometer/static/js/main.3988496c.chunk.js.map",
+    "runtime-main.js": "/covidometer/static/js/runtime-main.df862fb4.js",
+    "runtime-main.js.map": "/covidometer/static/js/runtime-main.df862fb4.js.map",
+    "static/js/2.e9eb4026.chunk.js": "/covidometer/static/js/2.e9eb4026.chunk.js",
+    "static/js/2.e9eb4026.chunk.js.map": "/covidometer/static/js/2.e9eb4026.chunk.js.map",
+    "index.html": "/covidometer/index.html",
+    "static/js/2.e9eb4026.chunk.js.LICENSE.txt": "/covidometer/static/js/2.e9eb4026.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df862fb4.js",
+    "static/js/2.e9eb4026.chunk.js",
+    "static/js/main.3988496c.chunk.js"
+  ]
+}
